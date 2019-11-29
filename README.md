@@ -1,0 +1,1 @@
+This is a collection of project created to see differences in the files that Android Studio 3.5.2 creates for different API support levels.
